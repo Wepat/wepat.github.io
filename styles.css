@@ -1,0 +1,20 @@
+
+h1{color : purple}
+
+h2{color : green}
+
+.punkteliste {
+  color : red;
+  position : absolute;
+  
+}
+.punkteliste a{
+  color: red;
+}
+
+.lorem{
+  padding-left : 11em;
+  position : absolute;
+}
+
+
